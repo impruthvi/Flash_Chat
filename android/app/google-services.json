@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983708553859",
+    "firebase_url": "https://flash-chat-4c62e.firebaseio.com",
+    "project_id": "flash-chat-4c62e",
+    "storage_bucket": "flash-chat-4c62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983708553859:android:77103177258c3ac23681b6",
+        "android_client_info": {
+          "package_name": "co.Pruthvi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983708553859-1lthv6fgutlf2a7a228ufvrkectlcaog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnn4FydC4EbEkYnt_hxymoGNSTMZ-Gu1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983708553859-1lthv6fgutlf2a7a228ufvrkectlcaog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
